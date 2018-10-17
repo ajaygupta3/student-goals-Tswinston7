@@ -16,12 +16,12 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 2: COPY AND PASTE GOAL
+Goal 2: At the end of the year I can create a graphics program/game that people can play like a game
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4:I cannot create a suitable outline for a project
+- 3:I create the skeleton of code but cannot run due to many bugs
+- 2:I can create a game/program that runs but has errors in the logic of runtime
+- 1:I create a fully functioning game/project
 
 

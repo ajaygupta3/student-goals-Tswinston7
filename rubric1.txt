@@ -16,12 +16,12 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 1: COPY AND PASTE GOAL
+Goal 1: Every two weeks I'll help advise people enough to get "Thank You"s as a response
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4:I get many "Thank You"'s as a response to my helpful behavior
+- 3:People thank me for efforts to help, but does not happen once or more every two weeks
+- 2:I get few expressions of grattitude, but not many
+- 1:People give me negative responses to my help because I cause their projects to go awry
 
 
